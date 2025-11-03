@@ -1,0 +1,112 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>do sitemap Página</title><meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css">
+	body {
+		margin: 0;
+		font-family: Helvetica, Arial, sans-serif;
+		font-size: 68.5%;
+	}
+	#content-head {
+		background-color: #141B38;
+		padding: 20px 40px;
+	}
+	#content-head h1,
+	#content-head p,
+	#content-head a {
+		color: #fff;
+		font-size: 1.2em;
+	}
+	#content-head h1 {
+		font-size: 2em;
+	}
+	table {
+		margin: 20px 40px;
+		border: none;
+		border-collapse: collapse;
+		font-size: 1em;
+		width: 75%;
+	}
+	th {
+		border-bottom: 1px solid #ccc;
+		text-align: left;
+		padding: 15px 5px;
+		font-size: 14px;
+	}
+	td {
+		padding: 10px 5px;
+		border-left: 3px solid #fff;
+	}
+	tr.stripe {
+		background-color: #f7f7f7;
+	}
+	table td a:not(.localized) {
+		display: block;
+	}
+	table td a img {
+		max-height: 30px;
+		margin: 6px 3px;
+	}
+	.empty-sitemap {
+		margin: 20px 40px;
+		width: 75%;
+	}
+	.empty-sitemap__title {
+		font-size: 18px;
+		line-height: 125%;
+		margin: 12px 0;
+	}
+	.empty-sitemap svg {
+		width: 140px;
+		height: 140px;
+	}
+	.empty-sitemap__buttons {
+		margin-bottom: 30px;
+	}
+	.empty-sitemap__buttons .button {
+		margin-right: 5px;
+	}
+	.breadcrumb {
+		margin: 20px 40px;
+		width: 75%;
+
+		display: flex;
+		align-items: center;
+		font-size: 12px;
+		font-weight: 600;
+	}
+	.breadcrumb a {
+		color: #141B38;
+		text-decoration: none;
+	}
+	.breadcrumb svg {
+		margin: 0 10px;
+	}
+	@media (max-width: 1023px) {
+		.breadcrumb svg:not(.back),
+		.breadcrumb a:not(:last-of-type),
+		.breadcrumb span {
+			display: none;
+		}
+		.breadcrumb a:last-of-type::before {
+			content: 'Voltar'
+		}
+	}
+	@media (min-width: 1024px) {
+		.breadcrumb {
+			font-size: 14px;
+		}
+		.breadcrumb a {
+			font-weight: 400;
+		}
+		.breadcrumb svg.back {
+			display: none;
+		}
+	}
+</style></head><body><div id="content-head"><h1>do sitemap Página</h1><p>Gerado por <a href="https://aioseo.com/?utm_source=WordPress&amp;utm_campaign=liteplugin&amp;utm_medium=xml-sitemap" target="_blank" rel="noreferrer noopener">All in One SEO</a>, este é um sitemap em XML, destinado a ser consumido por mecanismos de pesquisa como Google ou Bing.</p><p>
+					Você pode encontrar mais informações sobre sitemaps em XML em <a href="https://www.sitemaps.org/" target="_blank" rel="noreferrer noopener">sitemaps.org</a>.				</p><p>
+						Este sitemap contém						1
+								URL							
+				e foi gerado em outubro 27, 2025 às 2:40 pm			</p></div><div class="content"><div class="container"><div class="breadcrumb"><svg class="back" width="6" height="9" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.274 7.56L2.22 4.5l3.054-3.06-.94-.94-4 4 4 4 .94-.94z" fill="#141B38"></path></svg><a href="https://clubedejogos.com/"><span>Início</span></a><svg width="6" height="8" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M.727 7.06L3.78 4 .727.94l.94-.94 4 4-4 4-.94-.94z" fill="#141B38"></path></svg><a href="https://clubedejogos.com/sitemap.xml"><span>Índice do sitemap</span></a><svg width="6" height="8" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M.727 7.06L3.78 4 .727.94l.94-.94 4 4-4 4-.94-.94z" fill="#141B38"></path></svg><span>do sitemap Página</span></div><div class="table-wrapper"><table cellpadding="3"><thead><tr><th class="left">
+							URL						</th><th>
+								Imagens							</th><th>
+							Frequência de alteração						</th><th>
+							Prioridade						</th><th>
+							Última atualização						</th></tr></thead><tbody><tr class="stripe"><td class="left"><a href="https://clubedejogos.com/">https://clubedejogos.com/</a></td><td><div class="item-count">13</div></td><td>Always</td><td><div class="priority priority--high">Alta</div></td><td class="datetime"><div class="date">September 16, 2024</div><div class="time">6:44 pm</div></td></tr></tbody></table></div></div></div></body></html>
